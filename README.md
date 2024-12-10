@@ -1,2 +1,5 @@
-# loggerX
-loggerX
+# LoggerX
+## Usage
+```
+pip install loggerx
+```

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+loggerx/__init__.py
+loggerx/loggerx.py
+loggerx.egg-info/PKG-INFO
+loggerx.egg-info/SOURCES.txt
+loggerx.egg-info/dependency_links.txt
+loggerx.egg-info/requires.txt
+loggerx.egg-info/top_level.txt
